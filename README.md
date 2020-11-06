@@ -1,0 +1,2 @@
+# vufpriaapps
+vuisuaklizacion de imagene
